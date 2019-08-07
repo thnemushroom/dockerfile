@@ -1,0 +1,9 @@
+backports.lzma
+grpcio==1.18.0
+grpcio-tools==1.18.0
+protobuf==3.6.1
+six==1.12.0
+numpy
+pandas
+xlrd >= 0.9.0
+tqdm
