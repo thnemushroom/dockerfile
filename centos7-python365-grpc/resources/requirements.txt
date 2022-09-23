@@ -1,7 +1,7 @@
 backports.lzma
 grpcio==1.18.0
 grpcio-tools==1.18.0
-protobuf==3.6.1
+protobuf==3.18.3
 six==1.12.0
 numpy
 pandas
